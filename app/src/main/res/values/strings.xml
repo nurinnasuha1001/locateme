@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocateMe</string>
+    <style name="FirebaseAuthUI" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize the theme as per your needs -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+    </style>
+</resources>
